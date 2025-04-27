@@ -1,0 +1,30 @@
+# Flutter
+/.dart_tool/
+/.packages
+/build/
+/ios/Flutter/.last_build_id
+ios/Pods/
+/.idea/
+/*.iml
+/.vscode/
+/*.log
+
+# Android
+/.gradle
+/captures/
+
+# macOS
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# Web
+/web/
+
+# Linux
+/build/linux/
+
+# Windows
+/build/windows/
+
+# VS Code
+.vscode/
